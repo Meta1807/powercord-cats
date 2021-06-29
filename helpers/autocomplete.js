@@ -1,4 +1,4 @@
-const tags = require('../tags.json');
+const { tags } = require('../constants.js');
 
 const modes = [
   {
