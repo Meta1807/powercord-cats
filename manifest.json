@@ -1,0 +1,11 @@
+{
+    "name": "Cats!",
+    "version": "1.0.0",
+    "description": "Powercord plugin that sends random cat photos from https://cataas.com/",
+    "author": "Meta1807",
+    "license": "MIT",
+    "repo": "https://github.com/davidjcralph/kaomoji",
+    "dependencies": [
+      "pc-commands"
+    ]
+}
