@@ -4,7 +4,7 @@
     "description": "Powercord plugin that sends random cat photos from https://cataas.com/",
     "author": "Meta1807",
     "license": "MIT",
-    "repo": "https://github.com/davidjcralph/kaomoji",
+    "repo": "https://github.com/meta1807",
     "dependencies": [
       "pc-commands"
     ]

@@ -26,7 +26,7 @@ module.exports = class Cats extends Plugin {
         const imageArgument = args[0];
         if (mode === 'tag') {
           if (tags.some((item) => item === imageArgument)) {
-            this.getCats(imageArgument)
+            this.getCats(`/${imageArgument}`)
               .then(send);
           }
         } else if (mode === 'gif') {
